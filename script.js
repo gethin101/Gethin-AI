@@ -1,4 +1,4 @@
-const API_KEY = "YOUR_REAL_KEY_HERE";
+const API_KEY = "sk-hc-v1-e0b6d2a84a29484b96d29f0b1ff0de0c2374a9ebb9564970bed27d9ec6f325c9";
 
 async function askAI(prompt) {
     const response = await fetch("https://ai.hackclub.com/proxy/v1/chat/completions", {
