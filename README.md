@@ -1,10 +1,6 @@
 # Gethin AI – Simple Web Chatbot
-
-A lightweight web-based chatbot powered by the Hack Club AI API.  
-Built using **HTML**, **CSS**, and **JavaScript**, and fully deployable on **GitHub Pages**.
-
-This project lets you chat with an AI model directly in your browser using the  
-`qwen/qwen3-next-80b-a3b-instruct` model.
+This is my lightweight web-based chatbot setup using the `qwen/qwen3-next-80b-a3b-instruct` model by [Hack Club](@Hackclub) APIs.
+I built it using **HTML**, **CSS**, and **JavaScript** and it is hosted on **Github pages**
 
 ---
 
@@ -23,8 +19,7 @@ This project lets you chat with an AI model directly in your browser using the
 /
 ├── index.html      # Main webpage
 ├── script.js       # Chat logic + API calls
-└── style.css       # (Optional) Styling
-
+└── style.css       # Styling
 
 ---
 
