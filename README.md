@@ -14,15 +14,6 @@ I built it using **HTML**, **CSS**, and **JavaScript** and it is hosted on **Git
 
 ---
 
-## 📁 Project Structure
-
-/
-├── index.html      # Main webpage
-├── script.js       # Chat logic + API calls
-└── style.css       # Styling
-
----
-
 ## 🔧 Setup
 
 1. Clone or download this repository  
